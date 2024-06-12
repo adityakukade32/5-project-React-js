@@ -4,7 +4,7 @@
 
 </center>
 
-# Aditya Kukade's Reat projects
+# Aditya Kukade's React projects
 
 ---
 
